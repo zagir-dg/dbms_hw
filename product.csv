@@ -1,0 +1,300 @@
+product_id;brand;product_line;product_class;product_size;list_price;standard_cost
+1;Solex;Standard;medium;medium;71,49;53,62
+2;Trek Bicycles;Standard;medium;large;2091,47;388,92
+3;OHM Cycles;Standard;low;medium;1793,43;248,82
+4;Norco Bicycles;Standard;medium;medium;1198,46;381,10
+5;Giant Bicycles;Standard;medium;large;1765,3;709,48
+6;Giant Bicycles;Road;medium;medium;1538,99;829,65
+7;WeareA2B;Standard;medium;medium;60,34;45,26
+8;WeareA2B;Standard;medium;medium;1292,84;13,44
+9;Solex;Standard;medium;large;1071,23;380,74
+10;WeareA2B;Standard;medium;medium;1231,15;161,60
+11;Trek Bicycles;Mountain;low;medium;574,64;459,71
+12;OHM Cycles;Standard;low;medium;71,16;56,93
+13;Trek Bicycles;Standard;low;medium;1057,51;154,40
+14;Norco Bicycles;Standard;high;small;1661,92;1479,11
+15;Norco Bicycles;Standard;medium;medium;1555,58;818,01
+16;Giant Bicycles;Standard;medium;small;1311,44;1167,18
+17;Trek Bicycles;Standard;medium;medium;499,53;388,72
+18;WeareA2B;Touring;medium;large;1362,99;57,74
+19;Trek Bicycles;Standard;medium;large;1469,44;596,55
+20;Norco Bicycles;Standard;medium;medium;360,4;270,30
+21;WeareA2B;Standard;low;medium;642,31;513,85
+22;Giant Bicycles;Standard;medium;medium;1403,5;954,82
+23;Trek Bicycles;Road;low;small;1720,7;1531,42
+24;Norco Bicycles;Road;medium;medium;544,05;376,84
+25;WeareA2B;Standard;medium;small;1415,01;1259,36
+26;Solex;Standard;high;large;1842,92;1105,75
+27;WeareA2B;Standard;medium;medium;1769,64;108,76
+28;Solex;Touring;medium;large;2083,94;675,03
+29;Solex;Standard;low;medium;1289,85;74,51
+30;Trek Bicycles;Road;medium;large;1894,19;598,76
+31;Solex;Standard;medium;medium;1163,89;589,27
+32;Solex;Standard;medium;medium;1151,96;649,49
+33;OHM Cycles;Standard;medium;medium;235,63;125,07
+34;Giant Bicycles;Standard;medium;medium;642,7;211,37
+35;Norco Bicycles;Road;medium;large;1240,31;795,10
+36;Giant Bicycles;Standard;medium;large;1635,3;993,66
+37;OHM Cycles;Standard;high;medium;227,88;136,73
+38;Norco Bicycles;Standard;low;medium;363,01;290,41
+39;Solex;Standard;medium;medium;100,35;75,26
+40;OHM Cycles;Standard;high;medium;1458,17;874,90
+41;Giant Bicycles;Standard;high;small;1977,36;1759,85
+42;OHM Cycles;Road;high;large;12,01;7,21
+43;Norco Bicycles;Standard;medium;small;1216,14;1082,36
+44;Giant Bicycles;Standard;high;medium;1129,13;677,48
+45;OHM Cycles;Standard;medium;medium;183,86;137,90
+46;OHM Cycles;Standard;medium;medium;912,52;141,40
+47;WeareA2B;Standard;medium;small;175,89;131,92
+48;OHM Cycles;Touring;low;medium;1073,07;933,84
+49;Giant Bicycles;Standard;high;medium;1179;707,40
+50;Norco Bicycles;Standard;low;medium;958,74;748,90
+51;Giant Bicycles;Road;medium;medium;792,9;594,68
+52;Trek Bicycles;Road;medium;medium;290,62;215,14
+53;WeareA2B;Standard;medium;medium;752,64;205,36
+54;Solex;Standard;medium;medium;478,16;298,72
+55;Solex;Standard;high;medium;1024,66;614,80
+56;Solex;Standard;medium;medium;1945,43;333,18
+57;Solex;Standard;medium;medium;441,49;84,99
+58;Trek Bicycles;Road;medium;medium;533,51;400,13
+59;Giant Bicycles;Standard;medium;large;569,56;528,43
+60;Norco Bicycles;Standard;high;medium;1148,64;689,18
+61;Trek Bicycles;Standard;high;medium;495,72;297,43
+62;WeareA2B;Standard;medium;medium;1992,93;762,63
+63;Giant Bicycles;Standard;medium;large;1812,75;582,48
+64;Solex;Standard;low;medium;945,04;507,58
+65;Trek Bicycles;Standard;high;medium;358,39;215,03
+66;Giant Bicycles;Touring;medium;large;1873,97;863,95
+67;OHM Cycles;Road;medium;small;1810;1610,90
+68;Trek Bicycles;Standard;medium;small;1775,81;1580,47
+69;Solex;Road;medium;large;1777,8;820,78
+70;OHM Cycles;Standard;medium;medium;795,34;101,58
+71;Solex;Standard;medium;medium;575,27;431,45
+72;WeareA2B;Road;low;small;1172,78;1043,77
+73;WeareA2B;Standard;medium;medium;1065,03;230,09
+74;WeareA2B;Standard;medium;medium;1807,45;778,69
+75;;;;;1942,61;
+76;Giant Bicycles;Standard;high;medium;1274,93;764,96
+77;WeareA2B;Touring;medium;large;1890,39;260,14
+78;Trek Bicycles;Road;low;medium;980,37;234,43
+79;Solex;Road;medium;medium;416,98;312,74
+80;Trek Bicycles;Standard;medium;small;1386,84;1234,29
+81;OHM Cycles;Road;medium;medium;742,54;667,40
+82;Giant Bicycles;Standard;medium;medium;230,91;173,18
+83;Norco Bicycles;Mountain;low;small;688,63;612,88
+84;Solex;Standard;high;medium;748,17;448,90
+85;WeareA2B;Touring;medium;medium;1466,68;363,25
+86;;;;;1656,86;
+87;Solex;Standard;medium;large;202,62;151,96
+88;Norco Bicycles;Road;medium;medium;1036,59;206,35
+89;WeareA2B;Standard;medium;medium;1228,07;400,91
+90;Norco Bicycles;Road;high;large;774,53;464,72
+91;Norco Bicycles;Standard;medium;small;586,45;521,94
+92;WeareA2B;Standard;medium;medium;1762,96;950,52
+93;OHM Cycles;Standard;high;medium;2005,66;1203,40
+94;Solex;Standard;medium;medium;1483,2;99,59
+95;Giant Bicycles;Road;low;small;590,26;525,33
+96;Solex;Road;medium;small;1703,52;1516,13
+97;Solex;Standard;medium;medium;1577,53;826,51
+98;OHM Cycles;Standard;medium;medium;1636,9;44,71
+99;OHM Cycles;Road;medium;medium;1280,28;829,51
+100;Solex;Standard;medium;large;1061,56;733,58
+101;;;;;850,89;
+102;;;;;710,59;
+103;Norco Bicycles;Road;medium;medium;543,39;407,54
+104;OHM Cycles;Standard;medium;medium;1227,34;770,89
+105;;;;;1972,01;
+106;;;;;311,54;
+107;;;;;205,84;
+108;;;;;605,54;
+109;;;;;756,31;
+110;;;;;850;
+111;;;;;571,27;
+112;;;;;294,35;
+113;;;;;149,3;
+114;;;;;447,25;
+115;;;;;1348,41;
+116;;;;;1021,43;
+117;;;;;1163,77;
+118;;;;;1294,66;
+119;;;;;638,29;
+120;;;;;1202,34;
+121;;;;;326,86;
+122;;;;;814,86;
+123;;;;;1102,68;
+124;;;;;1880,4;
+125;;;;;1541,62;
+126;;;;;639,38;
+127;;;;;402,14;
+128;;;;;710,55;
+129;;;;;1142,89;
+130;;;;;813,6;
+131;;;;;1833,17;
+132;;;;;1285,47;
+133;;;;;1678,71;
+134;;;;;437,51;
+135;;;;;366,22;
+136;;;;;1199,26;
+137;;;;;1888,45;
+138;;;;;237,44;
+139;;;;;317,3;
+140;;;;;1527,25;
+141;;;;;1563,94;
+142;;;;;1146,42;
+143;;;;;1192,33;
+144;;;;;1672,07;
+145;;;;;1099,68;
+146;;;;;1281,6;
+147;;;;;1220,66;
+148;;;;;1061,92;
+149;;;;;1502,93;
+150;;;;;398,08;
+151;;;;;101,55;
+152;;;;;1957,87;
+153;;;;;1095,66;
+154;;;;;1776,08;
+155;;;;;752,36;
+156;;;;;172,09;
+157;;;;;1740,16;
+158;;;;;1734,3;
+159;;;;;240,72;
+160;;;;;1958,34;
+161;;;;;330,36;
+162;;;;;1709,26;
+163;;;;;60,72;
+164;;;;;1193,44;
+165;;;;;2037,77;
+166;;;;;1349,47;
+167;;;;;56,21;
+168;;;;;126,36;
+169;;;;;1300,96;
+170;;;;;1697,27;
+171;;;;;26,15;
+172;;;;;875,99;
+173;;;;;1862,82;
+174;;;;;2028,26;
+175;;;;;678,25;
+176;;;;;890,28;
+177;;;;;1084,18;
+178;;;;;1107,08;
+179;;;;;1790,31;
+180;;;;;724,37;
+181;;;;;1095,65;
+182;Solex;Road;medium;medium;416,98;312,74
+183;;;;;1223,24;
+184;;;;;541,44;
+185;;;;;470,07;
+186;;;;;2052,92;
+187;;;;;1817,13;
+188;;;;;1473,09;
+189;;;;;1480,76;
+190;;;;;2012,84;
+191;;;;;1711,35;
+192;;;;;753,76;
+193;;;;;840,02;
+194;;;;;1922,94;
+195;;;;;1759,3;
+196;;;;;330,91;
+197;;;;;1029,36;
+198;;;;;1487,8;
+199;;;;;1624,69;
+200;;;;;1719,95;
+201;;;;;899,52;
+202;;;;;554,38;
+203;;;;;960,51;
+204;;;;;1978,64;
+205;;;;;36,78;
+206;;;;;74,89;
+207;;;;;1091,51;
+208;;;;;695,23;
+209;;;;;1148,41;
+210;;;;;750,25;
+211;;;;;1997,68;
+212;;;;;1392,76;
+213;;;;;1294,37;
+214;;;;;311,57;
+215;;;;;899,92;
+216;;;;;162,87;
+217;;;;;1678,51;
+218;;;;;1703,18;
+219;;;;;675,28;
+220;;;;;487,8;
+221;;;;;1292,13;
+222;;;;;1578,52;
+223;;;;;922,15;
+224;;;;;122,74;
+225;;;;;435,66;
+226;;;;;1409,68;
+227;;;;;1315,16;
+228;;;;;1233,12;
+229;;;;;758,73;
+230;;;;;405,94;
+231;;;;;1026,7;
+232;;;;;687,9;
+233;;;;;494,96;
+234;;;;;1181,89;
+235;;;;;465,71;
+236;;;;;880,3;
+237;;;;;1989,3;
+238;;;;;1413,98;
+239;;;;;483,12;
+240;;;;;753,01;
+241;;;;;883,91;
+242;;;;;1216,4;
+243;;;;;32,44;
+244;;;;;16,08;
+245;;;;;1184;
+246;;;;;587,02;
+247;;;;;1919,23;
+248;;;;;1660,68;
+249;;;;;1224,41;
+250;;;;;1535,84;
+251;;;;;150,51;
+252;;;;;2062,95;
+253;;;;;1689,63;
+254;;;;;1934,41;
+255;;;;;889,05;
+256;;;;;1617,32;
+257;;;;;1788,93;
+258;;;;;2064,08;
+259;;;;;2020,14;
+260;;;;;489,58;
+261;;;;;2076,81;
+262;;;;;2061,38;
+263;;;;;877,44;
+264;Norco Bicycles;Standard;medium;medium;360,4;270,30
+265;;;;;1374,2;
+266;;;;;731,41;
+267;;;;;1034,17;
+268;;;;;156,56;
+269;;;;;643,95;
+270;;;;;517,53;
+271;;;;;226,94;
+272;;;;;1196,65;
+273;OHM Cycles;Road;medium;medium;742,54;667,40
+274;;;;;634,57;
+275;;;;;1571,83;
+276;;;;;1999,54;
+277;;;;;1562,88;
+278;;;;;1150,59;
+279;;;;;356,05;
+280;;;;;1780,22;
+281;;;;;1438,9;
+282;;;;;966,91;
+283;;;;;918,43;
+284;;;;;1541,1;
+285;;;;;1476,88;
+286;;;;;1023,39;
+287;;;;;310,57;
+288;;;;;356,39;
+289;;;;;1695,42;
+290;;;;;877,6;
+291;;;;;1401,63;
+292;;;;;2086,07;
+293;;;;;1761,75;
+294;;;;;1615,62;
+295;;;;;744,54;
+296;;;;;1098,18;
+297;;;;;868,56;
+298;;;;;1497,43;
+299;;;;;867,92;
